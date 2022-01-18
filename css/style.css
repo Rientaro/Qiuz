@@ -35,6 +35,10 @@ html {
     box-sizing: inherit;
 }
 
+h1 {
+text-transform: uppercase;
+}
+
 body {
     font-family: Nunito, sans-serif;
     background-color: #ffffff;
